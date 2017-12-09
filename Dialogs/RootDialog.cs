@@ -3,7 +3,7 @@ using Microsoft.Bot.Connector;
 using System;
 using System.Threading.Tasks;
 
-namespace BotFlightEnquiry.Dialogs
+namespace NeelBotDemo.Dialogs
 {
     [Serializable]
     public class RootDialog : IDialog
