@@ -1,11 +1,11 @@
-﻿using BotFlightEnquiry.Models;
+﻿using NeelBotDemo.FormFlow;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.FormFlow;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace BotFlightEnquiry.Dialogs
+namespace NeelBotDemo.Dialogs
 {
     public class MovieBotDialog
     {
