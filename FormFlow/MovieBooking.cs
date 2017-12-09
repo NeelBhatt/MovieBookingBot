@@ -23,7 +23,7 @@ namespace BotFlightEnquiry.Models
         public static IForm<MovieBooking> BuildForm()
         {
             return new FormBuilder<MovieBooking>()
-                .Message("Welcome to the Movie Booking BOT.")
+                .Message("Welcome to the Movie Booking BOT created by Neel.")
                  .OnCompletion(async (context, profileForm) =>
                  {
                      var userName = string.Empty;
