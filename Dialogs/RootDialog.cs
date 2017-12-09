@@ -11,7 +11,7 @@ namespace BotFlightEnquiry.Dialogs
         public async Task StartAsync(IDialogContext context)
         {
             // My dialog initiates and waits for the next message from the user.              
-            await context.PostAsync("Hi I am Movie Booking Bot.");
+            await context.PostAsync("Hi I am Movie Booking Bot created by Neel.");
             await Respond(context);
             // When a message arrives, call MessageReceivedAsync.  
             context.Wait(MessageReceivedAsync);
