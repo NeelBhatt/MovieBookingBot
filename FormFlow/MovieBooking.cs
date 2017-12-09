@@ -2,7 +2,7 @@
 using Microsoft.Bot.Builder.FormFlow;
 using System;
 
-namespace BotFlightEnquiry.Models
+namespace NeelBotDemo.FormFlow
 {
     [Serializable]
     public class MovieBooking
