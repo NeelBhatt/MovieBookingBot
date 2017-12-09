@@ -1,5 +1,5 @@
-﻿using BotFlightEnquiry.Dialogs;
-using BotFlightEnquiry.Models;
+﻿using NeelBotDemo.Dialogs;
+using NeelBotDemo.FormFlow;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.FormFlow;
 using Microsoft.Bot.Connector;
@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace BotFlightEnquiry
+namespace NeelBotDemo
 {
     [BotAuthentication]
     public class MessagesController : ApiController
