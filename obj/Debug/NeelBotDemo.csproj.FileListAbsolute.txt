@@ -1,0 +1,41 @@
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\obj\Debug\NeelBotDemo.csproj.CoreCompileInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Bot Application.dll.config
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Bot Application.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Bot Application.pdb
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Autofac.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Chronic.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Bot.Builder.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Bot.Connector.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Newtonsoft.Json.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.Web.Http.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Autofac.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Bot.Builder.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.Bot.Connector.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\Newtonsoft.Json.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.Web.Http.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\obj\Debug\Bot Application.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\obj\Debug\Bot Application.pdb
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelBotDemo\NeelBotDemo\obj\Debug\NeelBotDemo.csprojResolveAssemblyReference.cache
